@@ -42,7 +42,7 @@ const List<String> _kAndroidProductIds = <String>[
 
 // TODO: Please Add your iOS product ID here
 const List<String> _kiOSProductIds = <String>[
-  ''
+  'referit_individual'
 ];
 //Example
 //const List<String> _kiOSProductIds = <String>[
