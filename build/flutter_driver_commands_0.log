@@ -1,0 +1,4 @@
+2021-10-30 07:13:43.049494 >>> {command: get_health}
+2021-10-30 07:13:43.138867 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-30 07:13:43.172713 >>> {command: request_data, timeout: 1200000}
+2021-10-30 07:13:43.182265 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
